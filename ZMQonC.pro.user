@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.2, 2021-05-03T17:10:15. -->
+<!-- Written by QtCreator 4.13.2, 2021-05-07T16:53:10. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -337,7 +337,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default"></value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Users/PC/Documents/School/Network Programming/ZMQ/build-ZMQonC-Clone_of_Desktop_Qt_5_15_1_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
