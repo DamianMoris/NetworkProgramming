@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
@@ -178,4 +178,4 @@ char* deck(int amount)
     returncards[3 * amount] = '\0';
 
     return returncards;
-}
+}*/
