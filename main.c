@@ -8,7 +8,7 @@
 
 void * context; //Global context, because you only need one !
 
-int main( int argc, char * argv[] )
+int main()
 {
     printf("Start\n");
     srandStart();
