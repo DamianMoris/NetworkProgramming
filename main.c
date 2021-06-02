@@ -23,7 +23,7 @@ int main()
     //ALL MAGIC HAPPENS HERE
 
     zmq_setsockopt(subscriber, ZMQ_SUBSCRIBE, prefix, strlen(prefix));
-    strcat(prefix, rng(100)); //coinflip(), rng(50), d4(), d6(), d8(), d12(), d20(), d100(), letter(), magic8ball("?"), card(), deck(4)
+    strcat(prefix, deck(4)); //coinflip(), rng(50), d4(), d6(), d8(), d12(), d20(), d100(), letter(), magic8ball("?"), card(), deck(4)
     zmq_send(pusher, prefix, BUF_SIZE, 0);
     printf("waiting...\n");
     zmq_recv(subscriber, buffer, BUF_SIZE, 0);
