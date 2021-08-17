@@ -1,9 +1,11 @@
 # Network Programming
+## General Info
 This service provides multiple functions with the theme 'randomness' in mind.  
 To call on of the functions you use the 'Damian>>>' prefix with the name of the function directly behind the prefix. (example. Damian>>>coinflip) to do a coinflip.  
 For the functions that require more arguments you put some '>>>' in between (example. Damian>>>deck>>>7)  
 These functions return a value or string that corresponds to their utility with the prefix 'Damian<<<'  
 (Full example. send: Damian>>>d20  return: Damian<<<13)  
+## Functions
 These are the functions this service that works via the benternet network has:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-coinflip  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-d4, d6, d8, d12, d20 or a d100  
