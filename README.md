@@ -17,4 +17,4 @@ These are the functions this service that works via the benternet network has:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WIP: spin-the-wheel (input multiple strings to choose from, outputs one of the strings)  
 ## Flowchart
-![Flowchart](./flowchart.png)
+![Flowchart](./flowchart.PNG)
