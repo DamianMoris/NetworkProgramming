@@ -8,11 +8,11 @@ These functions return a value or string that corresponds to their utility with 
 ## Functions
 These are the functions this service that works via the benternet network has:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-coinflip  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-d4, d6, d8, d12, d20 or a d100  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-letter  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-card  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rng (requires extra argument 'value')  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-deck (requires extra argument 'value')  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-magic8ball (requires extra argument 'string')  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-d4, d6, d8, d12, d20 or a d100 (dice throw)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-letter (random letter)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-card (random card)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rng (random number + requires extra argument 'value')  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-deck (random cards from a deck + requires extra argument 'value')  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-magic8ball (ask a yes-no question + requires extra argument 'string')  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WIP: spin-the-wheel (input multiple strings to choose from, outputs one of the strings)  
